@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masterflo3004
-- 👀 I’m interested in Computer games and developing
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Computergames and developing.
+- 🌱 I’m currently learning C# and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
