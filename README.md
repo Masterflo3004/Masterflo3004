@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Masterflo3004
 - 👀 I’m interested in Computergames and developing.
-- 🌱 I’m currently learning C# and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My programming skills are:
+python (medium-intermediate)
+c# (unity engine) (beginner-medium)
+c (beginner)
+Javascript (earlybeginner)
+
 
 <!---
 Masterflo3004/Masterflo3004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
