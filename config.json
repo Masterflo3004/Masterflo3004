@@ -19,9 +19,9 @@
         "total_issues",
         "total_prs"
     ],
-    "additional_info": "",
+    "additional_info": "Just a guy interested in programming",
     "preferred_color": "lightblue",
-    "max_languages": 5,
+    "max_languages": 7,
     "append_automatic": true,
     "exclude_orgainzations": true
 }
